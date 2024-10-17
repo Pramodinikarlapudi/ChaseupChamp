@@ -1,4 +1,6 @@
 # ChaseupChamp  
+![Favicon](https://github.com/user-attachments/assets/6b408e9a-0f80-400b-b66d-95c388f084a0)
+
 Chaseup Champ is my idea of building a cozy environment for students studying  
 Main idea is to provide features that can make students so comfortable    
 Everything in one place,  
